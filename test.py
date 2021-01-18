@@ -1,4 +1,4 @@
 
 #/usr/bin/python
 
-print('toto','tata')
+print('GIT PUSH')
