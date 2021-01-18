@@ -1,4 +1,4 @@
 
 #/usr/bin/python
 
-print('GIT PUUUUUUUSH')
+print('GIT PUUUUUUUSH ENFIN')
