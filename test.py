@@ -1,4 +1,4 @@
 
 #/usr/bin/python
 
-print('GIT PUSH')
+print('GIT PUUUUUUUSH')
