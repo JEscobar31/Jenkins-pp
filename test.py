@@ -1,4 +1,4 @@
 
 #/usr/bin/python
 
-print('GIT PUUUUUUUSH ENFIN')
+print('IL0VEDEV0PS')
